@@ -1,7 +1,7 @@
 # TransMed-Clinical-Profiles
 
 ## Clinical profile project resources
-* [model.clinicalprofiles.org](https://model.clinicalprofiles.org)
+* [model.clinicalprofiles.org](https://model.clinicalprofiles.org/clinicalprofile.html)
 * [hapi.clinicalprofiles.org](https://hapi.clinicalprofiles.org)
 * [crepes](https://github.com/translational-informatics/crepes)
 * [crepyrie](https://github.com/translational-informatics/crepyrie)
