@@ -1,0 +1,61 @@
+gender,race,age_low,age_high
+All,All,All,
+All,All,18,44
+All,All,45,64
+All,All,65,74
+All,All,75,200
+All,White or Caucasian,All,
+All,White or Caucasian,18,44
+All,White or Caucasian,45,64
+All,White or Caucasian,65,74
+All,White or Caucasian,75,200
+All,Black or African American,All,
+All,Black or African American,18,44
+All,Black or African American,45,64
+All,Black or African American,65,74
+All,Black or African American,75,200
+All,Other,All,
+All,Other,18,44
+All,Other,45,64
+All,Other,65,74
+All,Other,75,200
+Male,All,All,
+Male,All,18,44
+Male,All,45,64
+Male,All,65,74
+Male,All,75,200
+Male,White or Caucasian,All,
+Male,White or Caucasian,18,44
+Male,White or Caucasian,45,64
+Male,White or Caucasian,65,74
+Male,White or Caucasian,75,200
+Male,Black or African American,All,
+Male,Black or African American,18,44
+Male,Black or African American,45,64
+Male,Black or African American,65,74
+Male,Black or African American,75,200
+Male,Other,All,
+Male,Other,18,44
+Male,Other,45,64
+Male,Other,65,74
+Male,Other,75,200
+Female,All,All,
+Female,All,18,44
+Female,All,45,64
+Female,All,65,74
+Female,All,75,200
+Female,White or Caucasian,All,
+Female,White or Caucasian,18,44
+Female,White or Caucasian,45,64
+Female,White or Caucasian,65,74
+Female,White or Caucasian,75,200
+Female,Black or African American,All,
+Female,Black or African American,18,44
+Female,Black or African American,45,64
+Female,Black or African American,65,74
+Female,Black or African American,75,200
+Female,Other,All,
+Female,Other,18,44
+Female,Other,45,64
+Female,Other,65,74
+Female,Other,75,200
