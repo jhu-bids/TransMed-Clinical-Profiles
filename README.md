@@ -1,6 +1,7 @@
 # TransMed-Clinical-Profiles
 
 ## Clinical profile project resources
+* [clinicalprofiles.org](https://clinicalprofiles.org)  Project landing page
 * [model.clinicalprofiles.org](https://model.clinicalprofiles.org/clinicalprofile.html)
 * [hapi.clinicalprofiles.org](https://hapi.clinicalprofiles.org)
 
